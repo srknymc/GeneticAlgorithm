@@ -1,0 +1,9 @@
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.exe.config
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.exe
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.pdb
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.MainForm.resources
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.frmMessageBox.resources
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.Properties.Resources.resources
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.csproj.GenerateResource.cache
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.exe
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.pdb
