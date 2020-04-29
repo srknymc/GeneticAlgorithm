@@ -1,0 +1,9 @@
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.MainForm.resources
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.frmMessageBox.resources
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+D:\C#_workspace\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
